@@ -4,5 +4,5 @@
 
 void myFunc()
 {
-	std::cout << "My func";
+	std::cout << "My function ";
 }
